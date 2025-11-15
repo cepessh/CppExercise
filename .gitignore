@@ -1,0 +1,5 @@
+build/
+BinaryOperations/build/
+*.user
+*.swp
+.DS_Store
