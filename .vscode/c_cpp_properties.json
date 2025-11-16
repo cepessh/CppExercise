@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/HamArc_HW0/copyfile/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/local/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++23",
+            "intelliSenseMode": "linux-clang-x64",
+            "recursiveIncludes": {
+                "reduce": "${default}",
+                "priority": "${default}"
+            }
+        }
+    ],
+    "version": 4
+}
